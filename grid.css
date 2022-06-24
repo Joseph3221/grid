@@ -12,7 +12,23 @@ body {
     width: 100%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+section{
+    background-color: rgb(176, 250, 250);
+    padding: 10px;
+    width: 50%;
+}
+header{
+    background-color: purple;
+}
 main {
-    color: black;
+    background-color: greenyellow;
+}
+nav{
+    background-color: red;
+}
+aside{
+    background-color: blue;
+}
+footer{
+    background-color: orange;
 }
